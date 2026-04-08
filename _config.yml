@@ -12,16 +12,16 @@ title                    : "Associate Professor Talha Burak Alakuş"
 title_separator          : "-"
 name                     : "Talha Burak Alakuş"
 description              : "Academic personal website"
-url                      : "https://talhaburakalakus.github.io"
-baseurl                  : ""
-repository               : "burakalakuss/talhaburakalakus.github.io"
+url: "https://burakalakuss.github.io"
+baseurl: "/talhaburakalakus.github.io"
+repository: "burakalakuss/talhaburakalakus.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profil1.png"
+  avatar           : "profile1.png"
   name             : "Talha Burak Alakuş" 
   bio              : "Head of Software Engineer Department"
   location         : "Kırkareli"
