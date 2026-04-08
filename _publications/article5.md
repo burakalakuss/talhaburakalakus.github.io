@@ -1,10 +1,13 @@
 ---
-title: "Early Detection of Sunflower Leaf Diseases Using Image-Based Deep Learning Methods"
+title: "LieWaves: dataset for lie detection based on EEG signals and wavelets"
 collection: publications
 permalink: /publication/article5
-excerpt: 'This study presents an image-based artificial intelligence system for detecting diseases on sunflower leaves. CNN, ViT, and hybrid CNN-ViT models are developed and evaluated using multiple performance metrics.'
-date: 2025-01-12
-venue: 'Computer Science'
-paperurl: 'https://dergipark.org.tr/en/pub/bbd/article/1685740?issue_id=95874'
-citation: 'Alakuş, T. B., Aslan, B., Beynek, B., Alakuş, D. O., & Koç, T. (2025). Early detection of sunflower leaf diseases using Image-Based Deep Learning methods. Computer Science, 10(2), 186–200.'
+excerpt: 'This study introduces a novel EEG-based dataset, LieWaves, for lie detection and analyzes it using signal processing and deep learning methods. EEG signals collected from 27 participants are processed with techniques such as ATAR, DWT, and FFT, and classified using CNN, LSTM, and hybrid models.'
+date: 2024-02-05
+venue: 'Medical & Biological Engineering & Computing'
+paperurl: 'https://link.springer.com/article/10.1007/s11517-024-03021-2'
+citation: 'Aslan, M., Baykara, M., & Alakus, T. B. (2024). LieWaves: dataset for lie detection based on EEG signals and wavelets. Medical & Biological Engineering & Computing, 62(5), 1571–1588.'
 ---
+
+## Abstract
+This study introduces an electroencephalography (EEG)-based dataset to analyze lie detection. Various analyses or detections can be performed using EEG signals. Lie detection using EEG data has recently become a significant topic. In every aspect of life, people find the need to tell lies to each other. While lies told daily may not have significant societal impacts, lie detection becomes crucial in legal, security, job interviews, or situations that could affect the community. This study aims to obtain EEG signals for lie detection, create a dataset, and analyze this dataset using signal processing techniques and deep learning methods. EEG signals were acquired from 27 individuals using a wearable EEG device called Emotiv Insight with 5 channels (AF3, T7, Pz, T8, AF4). Each person took part in two trials: one where they were honest and another where they were deceitful. During each experiment, participants evaluated beads they saw before the experiment and stole from them in front of a video clip. This study consisted of four stages. In the first stage, the LieWaves dataset was created with the EEG data obtained during these experiments. In the second stage, preprocessing was carried out. In this stage, the automatic and tunable artifact removal (ATAR) algorithm was applied to remove the artifacts from the EEG signals. Later, the overlapping sliding window (OSW) method was used for data augmentation. In the third stage, feature extraction was performed. To achieve this, EEG signals were analyzed by combining discrete wavelet transform (DWT) and fast Fourier transform (FFT) including statistical methods (SM). In the last stage, each obtained feature vector was classified separately using Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), and CNNLSTM hybrid algorithms. At the study’s conclusion, the most accurate result, achieving a 99.88% accuracy score, was produced using the LSTM and DWT techniques. With this study, a new data set was introduced to the literature, and it was aimed to eliminate the deficiencies in this field with this data set. Evaluation results obtained from the data set have shown that this data set can be effective in this field.
