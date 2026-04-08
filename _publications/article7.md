@@ -1,1 +1,13 @@
+---
+title: "Analysis of brain areas in emotion recognition from EEG signals with deep learning methods"
+collection: publications
+permalink: /publication/article7
+excerpt: 'This study investigates EEG-based emotion recognition using multiple datasets (DEAP, GAMEEMO, and SEED-V) and analyzes the contribution of different brain regions. A CNN-based deep learning model is applied after preprocessing and feature extraction using DWT and statistical methods.'
+date: 2023-09-21
+venue: 'Diagnostics'
+paperurl: 'https://link.springer.com/article/10.1007/s11042-023-16696-w'
+citation: 'Aslan, M., Baykara, M., & Alakuş, T. B. (2023). Analysis of brain areas in emotion recognition from EEG signals with deep learning methods. Multimedia Tools and Applications, 83(11), 32423–32452.'
+---
 
+## Abstract
+Emotion recognition technology is widely employed in areas such as brain-computer interfaces, healthcare, security, e-commerce, education, and entertainment. This technology serves to enhance and manage the interaction between humans and machines. The challenges in this field arise from the fact that emotions are abstract, fluctuate based on internal and external factors, and differ greatly among individuals. Recently, research leveraging electroencephalography signals for more dependable and accurate emotion analysis has been gaining traction. This article presents an emotion analysis conducted using EEG signals and identifies the brain areas that were found to be most impactful. Three different data sets were used in the study and the performances of these data sets in emotion recognition were determined according to the areas of the brain. The research was composed of four stages. In the first stage, EEG data were obtained from DEAP, GAMEEMO and SEED-V data sets. In the second stage, preprocessing was carried out and EEG channels were decomposed according to segments. Later, OSW method was applied to increase the data size in datasets and DWT and statistical methods were employed for feature extraction. In the third stage, the deep learning model was defined, and the CNN architecture was applied. In the last stage, classification was performed, and accuracy values were calculated according to the brain areas of each data set. At the end of the study, 72.42%, 95.30% and 82.06% accuracy values were obtained for DEAP, GAMEEMO and SEED-V data sets, respectively. In the results of the analysis made according to the brain areas, it was determined that the results of the channels in the left part of the brain and the channels in the frontal region of the brain were more successful and effective.
