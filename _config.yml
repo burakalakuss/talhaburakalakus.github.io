@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Associate Professor Talha Burak Alakuş"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Talha Burak Alakuş"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Head of Software Engineer Department"
+  location         : "Kırkareli"
+  employer         : "Kırklareli University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "talhaburakalakus@klu.edu.tr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
