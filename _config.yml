@@ -31,12 +31,9 @@ author:
   email            : "talhaburakalakus@klu.edu.tr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=7C_rgesAAAAJ&hl=tr"
-  impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3136-3341"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Talha-Alakus?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
