@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Neurophysiological approaches to lie detection: A systematic review"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This study presents a systematic review of EEG-based lie detection methods using ERP P300 responses. Focusing on studies published between 2017 and 2024, it evaluates commonly used signal processing techniques, feature extraction methods, and classification algorithms.'
+date: 2025-05-18
+venue: 'Brain Sciences'
+paperurl: 'https://www.mdpi.com/2076-3425/15/5/519'
+citation: 'Taha, B. N., Baykara, M., & Alakuş, T. B. (2025). Neurophysiological Approaches to Lie Detection: A Systematic review. Brain Sciences, 15(5), 519.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+Background and Objectives: Lie detection is crucial in domains such as security, law enforcement, and clinical assessments. Traditional methods suffer from reliability issues and susceptibility to countermeasures. In recent years, electroencephalography (EEG) and particularly the Event-Related Potential (ERP) P300 component have gained prominence for identifying concealed information. This systematic review aims to evaluate recent studies (2017–2024) on EEG-based lie detection using ERP P300 responses, especially in relation to recognized and unrecognized face stimuli. The goal is to summarize commonly used EEG signal processing techniques, feature extraction methods, and classification algorithms, identifying those that yield the highest accuracy in lie detection tasks. Methods: This review followed PRISMA guidelines for systematic reviews. A comprehensive literature search was conducted using IEEE Xplore, Web of Science, Scopus, and Google Scholar, restricted to English-language articles from 2017 to 2024. Studies were included if they focused on EEG-based lie detection, utilized experimental protocols like Concealed Information Test (CIT), Guilty Knowledge Test (GKT), or Deceit Identification Test (DIT), and evaluated classification accuracy using ERP P300 components. Results: CIT with ERP P300 was the most frequently employed protocol. The most used preprocessing method was Bandpass Filtering (BPF), and the Discrete Wavelet Transform (DWT) emerged as the preferred feature extraction technique due to its suitability for non-stationary EEG signals. Among classification algorithms, Support Vector Machine (SVM), Linear Discriminant Analysis (LDA), and Convolutional Neural Networks (CNN) were frequently utilized. These findings demonstrate the effectiveness of hybrid and deep learning-based models in enhancing classification performance. Conclusions: EEG-based lie detection, particularly using the ERP P300 response to face recognition tasks, shows promising accuracy and robustness compared to traditional polygraph methods. Combining advanced signal processing methods with machine learning and deep learning classifiers significantly improves performance. This review identifies the most effective methodologies and suggests that future research should focus on real-time applications, cross-individual generalization, and reducing system complexity to facilitate broader adoption.
