@@ -12,6 +12,7 @@ title                    : "Associate Professor Talha Burak Alakuş"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
+url                      : https://academicpages.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -19,7 +20,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profil.png"
+  avatar           : "profile.png"
   name             : "Talha Burak Alakuş"
   pronouns         : # example: "she/her"  
   bio              : "Head of Software Engineer Department"
