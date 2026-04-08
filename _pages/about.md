@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Talha Burak Alakuş | Research & Teaching"
+title: "Talha Burak Alakuş"
 author_profile: true
 redirect_from: 
   - /about/
