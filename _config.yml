@@ -20,7 +20,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Talha Burak Alakuş"
   pronouns         : # example: "she/her"  
   bio              : "Head of Software Engineer Department"
