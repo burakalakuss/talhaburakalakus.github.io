@@ -1,12 +1,11 @@
 ---
-title: "Classification of Microbes with Recurrent Neural Networks"
+title: "SMS Phishing Detection with Hybrid CNN-GRU
 collection: talks
 permalink: /talks/conference1
-excerpt: 'This study presents a deep learning-based approach for microbial classification using RNN and LSTM models. After preprocessing and normalization, the models are trained to classify microbial data and evaluated using standard performance metrics.'
-date: 2023-09-01
-venue: 'Fırat Üniversitesi Mühendislik Bilimleri Dergisi'
-paperurl: 'https://dergipark.org.tr/tr/pub/fumbd/article/1302903'
-citation: 'Alakuş, T. B. (2023). Tekrarlayıcı Sinir Ağları ile Mikropların Sınıflandırılması. Fırat Üniversitesi Mühendislik Bilimleri Dergisi, 35(2), 735–743.'
+date: 2024-09-28
+venue: '7th IEEE World Symposium on Communication Engineering (WSCE), Tokyo, Japan'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10945003'
+citation: 'Aslanpençesi, Z., Baykara, M., & Alakuş, T. B. (2024b). SMS Phishing Detection with Hybrid CNN-GRU. In 7th IEEE World Symposium on Communication Engineering (WSCE), Tokyo, Japan (pp. 52–56). IEEE.'
 ---
 
 ## Abstract
